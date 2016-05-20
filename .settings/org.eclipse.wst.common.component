@@ -2,7 +2,10 @@
     <wb-module deploy-name="ImagineSalon.com">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+<<<<<<< HEAD
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/test"/>
+=======
+>>>>>>> 57c3332e217fbc78c8674192be20b34c8ce3da91
         <property name="context-root" value="ImagineSalon.com"/>
         <property name="java-output-path" value="/ImagineSalon.com/build/classes"/>
     </wb-module>
